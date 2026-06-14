@@ -32,3 +32,33 @@ ECE student specializing in Full-Stack Web Development and IoT integration.
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arcbs&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌐 Socials:
+<p>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="YOUR_STACKOVERFLOW_URL"><img src="https://img.shields.io/badge/Stack_Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" /></a>
+  <a href="YOUR_CODEPEN_URL"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" /></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
+
+### 💻 Tech Stack:
+
+**🌐 Frontend UI & Logic**<br>
+<p>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+</p>
+
+**⚙️ Backend & Hardware Integration**<br>
+<p>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+</p>
+
+**🛠️ Version Control & Tools**<br>
+<p>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
