@@ -7,7 +7,7 @@ ECE student specializing in Full-Stack Web Development and IoT integration.
 <br>⚡ Fun fact: I can solder a circuit board just as well as I can center a div.
 
 
-### 🌐 Socials:
+# 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-raj-345143400)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32836609/arcbs)
@@ -15,7 +15,7 @@ ECE student specializing in Full-Stack Web Development and IoT integration.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thisisarcbs@gmail.com)
 
 
-### 💻 Tech Stack:
+# 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -27,7 +27,7 @@ ECE student specializing in Full-Stack Web Development and IoT integration.
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 📊 GitHub Stats:
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Arcbs&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arcbs&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
