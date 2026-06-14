@@ -1,9 +1,8 @@
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&width=600&lines=ECE+Student+%7C+Web+Developer;Bridging+Hardware+and+the+Web;Building+IoT+Dashboards;Transforming+Data+into+UI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=system-ui&weight=600&size=32&pause=1000&color=38B2AC&width=800&height=50&lines=ECE+Student+%7C+Web+Developer;Bridging+Hardware+and+the+Web;Building+IoT+Dashboards;Transforming+Data+into+UI" alt="Typing SVG" />
   </a>
 </p>
-
 
 
 
