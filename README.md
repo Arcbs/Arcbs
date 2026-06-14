@@ -1,3 +1,12 @@
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=ECE+Student+%7C+Web+Developer;Bridging+Hardware+and+the+Web;Building+IoT+Dashboards;Transforming+Data+into+UI" alt="Typing SVG" />
+  </a>
+</p>
+
+
+
 # 💫 About Me:
 ECE student specializing in Full-Stack Web Development and IoT integration.
 <br>🔭 I’m currently working on: A web dashboard visualizing live AQI and hardware status from a custom ESP-WROOM-32 smart air-purifying mask.
